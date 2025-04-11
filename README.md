@@ -28,7 +28,7 @@ Performed:
 - No significant correlation between calories and GPA.
 
 ## Report
-A full documented report is available here: [`Hypothesis_Report_Food.docx`](Hypothesis_Report_Food.docx)
+A full documented report is available here: [`[Hypothesis_Report_Food.docx](https://github.com/jonathan-ndayisenga/nutrition-academic-performance-analysis/blob/main/Data%20Cleaning%20and%20Hypothesis%20Testing%20Report.pdf)`](Hypothesis_Report_Food.docx)
 
 ## Credits
 Dataset originally from Kaggle.
